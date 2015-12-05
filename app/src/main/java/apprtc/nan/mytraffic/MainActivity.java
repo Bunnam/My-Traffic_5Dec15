@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         bindWidget();
         //Button Controller
          buttonController();
+
     } // Main Method
 
     private void buttonController() {
